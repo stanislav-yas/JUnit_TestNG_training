@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Task10_JUnit/Task10_JUnit.iml" filepath="$PROJECT_DIR$/Task10_JUnit/Task10_JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task11_TestNG/Task11_TestNG.iml" filepath="$PROJECT_DIR$/Task11_TestNG/Task11_TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task12_TestNG/Task12_TestNG.iml" filepath="$PROJECT_DIR$/Task12_TestNG/Task12_TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task3_TestNG/Task3_TestNG.iml" filepath="$PROJECT_DIR$/Task3_TestNG/Task3_TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task4_TestNG/Task4_TestNG.iml" filepath="$PROJECT_DIR$/Task4_TestNG/Task4_TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task5_TestNG/Task5_TestNG.iml" filepath="$PROJECT_DIR$/Task5_TestNG/Task5_TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task6_TestNG/Task6_TestNG.iml" filepath="$PROJECT_DIR$/Task6_TestNG/Task6_TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task7_JUnit/Task7_JUnit.iml" filepath="$PROJECT_DIR$/Task7_JUnit/Task7_JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task8_JUnit/Task8_JUnit.iml" filepath="$PROJECT_DIR$/Task8_JUnit/Task8_JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task9_JUnit/Task9_JUnit.iml" filepath="$PROJECT_DIR$/Task9_JUnit/Task9_JUnit.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="CreateNewFileTest"   >
+        <parameter name="iterationCount" value="5"/>
+        <groups>
+            <run>
+                <include name="positive"/>
+                <include name="negative"/>
+                <!--<exclude name="broken"/>-->
+            </run>
+            <dependencies>
+                <group name="negative" depends-on="positive"></group>
+            </dependencies>
+        </groups>
+        <packages>
+            <package name="ru.stqa.trainings" />
+        </packages>
+        <!--<classes>-->
+            <!--<class name="ru.stqa.trainings.CreateNewFile1Test">-->
+            <!--</class>-->
+        <!--</classes>-->
+    </test>
+</suite>
